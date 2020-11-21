@@ -1,4 +1,31 @@
 # git-101
-Kutaiba Mahmutoglu-25-Living in Gaziantep and graduaated as a mechanical engineer from gaziantep university and now at the 4th year as a Civil Engineer
-working as a supply chain officer at Ihsan RD - part time
+Personal info:
+-- Benim Adım Kutaiba Mahmutoğlu
+-- 25 yaşında
+-- Ben Suriyeliyim ve aynı zamand Türk vatandaşlilyim 
+-- Gaziantep Üniversitesi'nde Makine ve İnşaat Mühendisliği çift anadal okudum.
 
+Connections:
+-- phone number: +905366628575
+-- Mail adress: kmahmutoglu95@gmail.com
+-- Linked in: https://www.linkedin.com/in/kutaiba-mahmutoğlu-3021b5199
+
+current Jobs:
+-- Tedarik zinciri sorumlusu.
+-- MAPs organizasyonunda robotik kodlama eğitmeni olarak gönüllü olarak çalışıyorum.
+
+Some facts about me:
+-- Üç dil biliyorum
+  -- Arapça: anadili, 
+  -- İngilizce: tam yeterlilik, 
+  --Türkçe: akıcı konuşuyorum ama yazmada bazı problemlerim var
+
+hobbies:
+-- film izlemek
+-- Futbol oynamak
+-- yüzme
+
+
+
+
+son olarak, bana bu harika Eğitim Kampının bir parçası olma şansı verdiğiniz için teşekkür ederim.
